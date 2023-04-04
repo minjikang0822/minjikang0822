@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?section=header&color=gradient)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=cceecc&fontColor=ffffff&height=300&section=header&text=Welcome%20to%20Minji's%20GitHub&fontSize=65&animation=twinkling)
 
 type=wave/egg/shark/rounded
 
@@ -43,3 +47,4 @@ System.out.println("Hello World")
 printf("Hello World");
 print("Hello World")
 ```
+![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient)
