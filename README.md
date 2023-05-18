@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikang0822&hide_progress=false&langs_count=10&size_weight=0.5&count_weight=0.5&count-private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikang0822&hide_progress=false&langs_count=10&size_weight=0.5&count_weight=0.5&count-private=true&hide=makefile)
 
 
 ![header](https://capsule-render.vercel.app/api?section=header&color=gradient)
