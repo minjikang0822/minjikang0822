@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822)
+![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true)
 
 
 
@@ -13,7 +13,7 @@ type=wave/egg/shark/rounded
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=minjikang0822)](https://github.com/minjikang0822)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=minjikang0822&show_icons=true&theme=radical)](https://github.com/minjikang0822)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=minjikang0822&show_icons=true&theme=radical&include_all_commits)](https://github.com/minjikang0822)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikang0822)](https://github.com/minjikang0822/github-readme-stats)
 
