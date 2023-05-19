@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&width=100%&section=footer&text=Welcome%20to%20Minji's%20GitHub%20render&fontSize=50)
 ![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=monokai)
 
 <div>
@@ -10,7 +11,7 @@
 
 ![header](https://capsule-render.vercel.app/api?section=header&color=gradient)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=cceecc&fontColor=ffffff&height=300&section=header&text=Welcome%20to%20Minji's%20GitHub&fontSize=65&animation=twinkling)
 
