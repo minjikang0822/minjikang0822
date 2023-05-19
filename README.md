@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Minji's%20GitHub&fontSize=68&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=35)
-![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&type=waving&height=300&width=100%)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Minji's%20GitHub&fontSize=68&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=35&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=gradient&customColorList=15)
+
+
 ![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=monokai)
 
 <div>
