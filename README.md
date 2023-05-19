@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&width=100%&section=footer&text=Welcome%20to%20Minji's%20GitHub&fontSize=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=footer&text=Welcome%20to%20Minji's%20GitHub&fontSize=68)
 ![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=monokai)
 
 <div>
@@ -9,22 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-![header](https://capsule-render.vercel.app/api?section=header&color=gradient)
-
-
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=cceecc&fontColor=ffffff&height=300&section=header&text=Welcome%20to%20Minji's%20GitHub&fontSize=65&animation=twinkling)
-
-type=wave/egg/shark/rounded
-
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=minjikang0822)](https://github.com/minjikang0822)
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=minjikang0822&show_icons=true&theme=radical&include_all_commits)](https://github.com/minjikang0822)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikang0822)](https://github.com/minjikang0822/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikang0822 &layout=compact)](https://github.com/minjikang0822/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
