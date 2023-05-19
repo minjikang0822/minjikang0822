@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10)
+![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=monokai)
 
 <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
