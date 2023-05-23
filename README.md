@@ -25,7 +25,7 @@
           </td>
         </tr>
         <tr>
-            <td colspan="3">Framework and Library</td>
+            <td width="40%" colspan="3">Framework and Library</td>
             <td colspan="1">
               <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
               <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
