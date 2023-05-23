@@ -2,7 +2,7 @@
 
 |Github Language Stats|Leetcode Stats|
 |---|---|
-|![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=minji&bg_color=2,ddd6f3,faaca8)|![Leetcode Stats](https://leetcard.jacoblin.cool/minjikang0822?animation=false?theme=minji&bg_color=2,ddd6f3,faaca8)|
+|![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=minji&bg_color=2,ddd6f3,faaca8)|![Leetcode Stats](https://leetcard.jacoblin.cool/minjikang0822?animation=false?theme=wtf)|
 
 
 <table>
