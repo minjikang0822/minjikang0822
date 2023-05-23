@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Minji's%20GitHub&fontSize=68&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=35&animation=twinkling)
-
 |Github Language Stats|Leetcode Stats|
 |---|---|
 |![Top Langs](https://github-readme-beauty.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&theme=minji&bg_color=2,ddd6f3,faaca8)|![Leetcode Stats](https://leetcard.jacoblin.cool/minjikang0822?animation=false?theme=minji)|
-
-
 <table>
     <tbody>
         <tr>
@@ -88,6 +85,5 @@
           </td>
     </tbody>
 </table>
-
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=gradient&customColorList=15)
