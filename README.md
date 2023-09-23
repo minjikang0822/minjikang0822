@@ -5,22 +5,22 @@
 
 <br>
 
-<h2>I've been learning and using...</h2>
+<h2>👩🏻‍💻 I've been learning and using...</h2>
 
-<h4>Languages</h4>
+<h4>🔤 Languages</h4>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 
-<h4>Frameworks</h4>
+<h4>🖼️ Frameworks</h4>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-<h4>Databases</h4>
+<h4>📚 Databases</h4>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> 
 
-<h4>IDE & Tools</h4>
+<h4>🛠️ IDE & Tools</h4>
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
 
@@ -28,11 +28,11 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-809CC9?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> 
 
-<h4>APIs</h4>
+<h4>🛜 APIs</h4>
 
 <img src="https://img.shields.io/badge/SK Subway Congestion API-DC461D?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Kakao Maps API-FFCD00?style=flat-square&logo=kakao&logoColor=white"/> <img src="https://img.shields.io/badge/Google Maps API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Public Data Open API-000000?style=flat-square&logo=&logoColor=white"/> 
 
-<h4>Others</h4>
+<h4>⚙️ Others</h4>
 
 <img src="https://img.shields.io/badge/SQL-1260CC?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/XML-000000?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2015/07/difference-between-ajax-and-jQuery-Ajax.png?w=398&ssl=1" style="width:30px;background-color:#0094F5"/><img src="https://img.shields.io/badge/Ajax-0094F5?style=flat-square&logoColor=white&?logo="/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 
