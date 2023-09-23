@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Minji's%20GitHub&fontSize=68&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=40&animation=twinkling)
 |![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&text=Github%20Language%20Stats&fontSize=40&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=50)|![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&text=Leetcode%20Stats&fontSize=40&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=50)|
 |---|---|
-|![Top Langs](https://github-readme-stats-minjikang0822.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500)|![Leetcode Stats](https://leetcard.jacoblin.cool/minjikang0822?animation=false?theme=minji)
+|![Top Langs](https://github-readme-stats-minjikang0822.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500&theme=gruvbox)|![Leetcode Stats](https://leetcard.jacoblin.cool/minjikang0822?theme=nord)
 
 <br>
 
