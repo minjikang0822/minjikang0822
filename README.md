@@ -7,7 +7,7 @@
 
 # 👩🏻‍💻 I've been learning and using...
 1. [Languages](#🔤-Languages)
-2. [Frameworks](🖼️-Frameworks)
+2. [Frameworks](#🖼️-Frameworks)
 3. [Databases](📚-Databases)
 4. [IDE & Tools](🛠️-IDE-&-Tools)
 5. [APIs](🛜-APIs)
@@ -15,12 +15,12 @@
 
 </br>
 
-## 🔤 Languages
+### 🔤 Languages
 
 > <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 </br>
 
-## 🖼️ Frameworks
+### 🖼️ Frameworks
 
 > <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
