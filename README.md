@@ -6,7 +6,7 @@
 <br>
 
 # 👩🏻‍💻 I've been learning and using...
-1. [Languages 🔤](#Languages)
+🔤 [Languages](#Languages)
 2. [Frameworks 🖼️](#Frameworks)
 3. [Databases 📚](#Databases)
 4. [IDE & Tools🛠️](#IDE-&-Tools)
