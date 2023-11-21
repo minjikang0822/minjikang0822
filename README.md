@@ -6,12 +6,12 @@
 <br>
 
 # 👩🏻‍💻 I've been learning and using...
-1. [Languages](###-🔤-Languages)
+1. [Languages](#🔤-Languages)
 2. [Frameworks](#🖼️-Frameworks)
-3. [Databases](📚-Databases)
-4. [IDE & Tools](🛠️-IDE-&-Tools)
-5. [APIs](🛜-APIs)
-6. [Others](⚙️-Others)
+3. [Databases](#📚-Databases)
+4. [IDE & Tools](#🛠️-IDE-&-Tools)
+5. [APIs](#🛜-APIs)
+6. [Others](#⚙️-Others)
 
 </br>
 
