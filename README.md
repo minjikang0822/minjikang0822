@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&text=📊%20Github%20Language%20Stats&fontSize=50&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=50)
 
-<img style="height: auto; width: 40%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&hide_border=true](https://github-readme-stats-minjikang0822.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500)" />
 
-<div style="display: flex; flex-direction: row; align:center;">
- <img class="img" src="https://github-readme-stats-minjikang0822.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500" />
+<div style="display: flex; align-items: center; justify-content: center;">
+ <img style="height: auto; width: 100%" class="img" src="[https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&hide_border=true](https://github-readme-stats-minjikang0822.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500)" />
+ <img class="img" style="width: 80%" src="https://github-readme-stats-minjikang0822.vercel.app/api/top-langs/?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500" />
 </div>
 
 <br>
