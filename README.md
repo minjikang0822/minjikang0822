@@ -6,7 +6,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
  <img class="img" style="width: 80%" src="https://github-readme-stats-lake-iota-49.vercel.app/api/top-langs?username=minjikang0822&count_private=true&layout=compact&size_weight=1&count_weight=0&langs_count=10&card_width=500" />
 </div>
-it takes a time to show up
+it takes time to show up
 <br>
 <br>
 
