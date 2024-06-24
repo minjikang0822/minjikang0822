@@ -11,7 +11,6 @@ it takes time to show up. If it doesn't show up in few seconds, please refresh t
 <br>
 <br>
 
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&text=👩🏻‍💻%20I've%20been%20learning%20and%20using...&fontSize=50&color=gradient&customColorList=15&fontColor=FFFFFF&fontAlignY=50)
 1. [Languages 🔤](#Languages)
 2. [Frameworks 🖼️](#Frameworks)
